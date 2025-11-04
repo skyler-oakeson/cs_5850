@@ -8,6 +8,8 @@ pkgs.mkShell {
         jupyter
         numpy
         pandas
+        matplotlib
+        scipy
       ]
     ))
   ];
